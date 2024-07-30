@@ -1,3 +1,8 @@
 # 직각삼각형
 # https://www.acmicpc.net/problem/4153
-RightTriangle.py
+import sys
+
+def solution():
+    return 0
+
+solution()
