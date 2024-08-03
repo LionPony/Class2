@@ -1,3 +1,15 @@
 # 직각삼각형
 # https://www.acmicpc.net/problem/4153
 RightTriangle.py
+
+# 웰컴 키트
+# https://www.acmicpc.net/problem/30802
+WelcomeKit.py
+
+# 소수 찾기
+# https://www.acmicpc.net/problem/1978
+FindingPrime.py
+
+# 분해합
+# https://www.acmicpc.net/problem/2231
+DigitGenerator.py
