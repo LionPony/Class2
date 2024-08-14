@@ -45,3 +45,71 @@ GCDLCM.py
 # 부녀회장이 될테야
 # https://www.acmicpc.net/problem/2775
 BecomingLeaderofWomen.py
+
+# 달팽이는 올라가고 싶다
+# https://www.acmicpc.net/problem/2869
+SnailWantsGoUp.py
+
+# 수 정렬하기 3
+# https://www.acmicpc.net/problem/10989
+SortingNumbers3.py
+
+# 이항계수
+# https://www.acmicpc.net/problem/11050
+BinomialCoefficient.py
+
+# FizzBuzz
+# https://www.acmicpc.net/problem/28702
+FizzBuzz.py
+
+# 단어 정렬
+# https://www.acmicpc.net/problem/1181
+SortingWords.py
+
+# 영화감독 숌
+# https://www.acmicpc.net/problem/1436
+MovieDirectorShom.py
+
+# 팩토리얼 0의 개수
+# https://www.acmicpc.net/problem/1676
+NumberofFactorialZero.py
+
+# 수 정렬하기 2
+# https://www.acmicpc.net/problem/2751
+SortingNumbers2.py
+
+# 덩치
+# https://www.acmicpc.net/problem/7568
+Big.py
+
+# 나이순 정렬
+# https://www.acmicpc.net/problem/10814
+SortingbyAge.py
+
+# 좌표 정렬하기
+# https://www.acmicpc.net/problem/11650
+SortingPosition.py
+
+# 좌표 정렬하기 2
+# https://www.acmicpc.net/problem/11651
+SortingPosition2.py
+
+# 요세푸스 문제 0
+# https://www.acmicpc.net/problem/11866
+JosephusProblem0.py
+
+# 체스판 다시 칠하기
+# https://www.acmicpc.net/problem/1018
+RepaintChessTile.py
+
+# 수 찾기
+# https://www.acmicpc.net/problem/1920
+FindingNumber.py
+
+# 카드2
+# https://www.acmicpc.net/problem/2164
+Card2.py
+
+# 설탕 배달
+# https://www.acmicpc.net/problem/2839
+SugarDelivery.py
