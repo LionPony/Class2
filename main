@@ -113,3 +113,27 @@ Card2.py
 # 설탕 배달
 # https://www.acmicpc.net/problem/2839
 SugarDelivery.py
+
+# 균형잡힌 세상
+# https://www.acmicpc.net/problem/4949
+BalancedWorld.py
+
+# 괄호
+# https://www.acmicpc.net/problem/9012
+Parentheses.py
+
+# 제로
+# https://www.acmicpc.net/problem/10773
+Zero.py
+
+# 숫자 카드 2
+# https://www.acmicpc.net/problem/10816
+NumberCards2.py
+
+# 스택
+# https://www.acmicpc.net/problem/10828
+Stack.py
+
+# 큐
+# https://www.acmicpc.net/problem/10845
+Queue.py
