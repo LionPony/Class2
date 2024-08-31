@@ -185,3 +185,51 @@ FindingPasswd.py
 # 피보나치 함수
 # https://www.acmicpc.net/problem/1003
 FibonacciFunc.py
+
+# 1로 만들기
+# https://www.acmicpc.net/problem/1463
+MakingOne.py
+
+# 계단 오르기
+# https://www.acmicpc.net/problem/2579
+ClimbingStairs.py
+
+# 바이러스
+# https://www.acmicpc.net/problem/2606
+Virus.py
+
+# 1, 2, 3 더하기
+# https://www.acmicpc.net/problem/9095
+Adding1s2sand3s.py
+
+# 패션왕 신해빈
+# https://www.acmicpc.net/problem/9375
+Incognito.py
+
+# 파도반 수열
+# https://www.acmicpc.net/problem/9461
+PadovanSequence.py
+
+# 구간 합 구하기 4
+# https://www.acmicpc.net/problem/11659
+PrefixSum4.py
+
+# 2xn 타일링
+# https://www.acmicpc.net/problem/11726
+2xnTiling.py
+
+# 2xn 타일링 2
+# https://www.acmicpc.net/problem/11727
+2xnTiling2.py
+
+# Four Squares
+# https://www.acmicpc.net/problem/17626
+FourSquares.py
+
+# 유기농 배추
+# https://www.acmicpc.net/problem/1012
+OrganicCabbage.py
+
+# DFS와 BFS
+# https://www.acmicpc.net/problem/1260
+DFSandBFS.py
