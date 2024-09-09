@@ -233,3 +233,35 @@ OrganicCabbage.py
 # DFS와 BFS
 # https://www.acmicpc.net/problem/1260
 DFSandBFS.py
+
+# 잃어버린 괄호
+# https://www.acmicpc.net/problem/1541
+MissingParenthesis.py
+
+# 최소 힙
+# https://www.acmicpc.net/problem/1927
+MinimumHeap.py
+
+# 색종이 만들기
+# https://www.acmicpc.net/problem/2630
+MakeColorPaper.py
+
+# 나무 자르기
+# https://www.acmicpc.net/problem/2805
+EKO.py
+
+# 최대 힙
+# https://www.acmicpc.net/problem/11279
+MaximumHeap.py
+
+# 연결 요소의 개수
+# https://www.acmicpc.net/problem/11724
+NumberofConnectedComponents.py
+
+# 마인크래프트
+# https://www.acmicpc.net/problem/18111
+MineCraft.py
+
+# 좌표 압축
+# https://www.acmicpc.net/problem/18870
+CoordinateCompression.py
