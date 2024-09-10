@@ -265,3 +265,15 @@ MineCraft.py
 # 좌표 압축
 # https://www.acmicpc.net/problem/18870
 CoordinateCompression.py
+
+# 비밀번호 발음하기
+# https://www.acmicpc.net/problem/4659
+EasierDonethanSaid.py
+
+# 가위 바위 보?
+# https://www.acmicpc.net/problem/4493
+RockPaperorScissors.py
+
+# 헌내기는 친구가 필요해
+# https://www.acmicpc.net/problem/21736
+HunnagiNeedsFriend.py
